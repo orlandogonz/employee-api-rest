@@ -12,7 +12,8 @@ ejecutado en una operación CRUD con Employee Resource. Este es un servicio prod
 
 El projecto está compuesto por los siguientes items
 
-> 1.	script folder: This place has the script for create the table for employee information.
+> 1.	src/main/java folder:
+        * com.orlando.java.sql: Aquí está el script para crear la tabla de información de employee.
 > 2.	src/main/java folder: java clases.
 >       *	com.orlando.java.web.ConnectionHelper: Creea la conexión a la base de datos.
 >       *	com.orlando.java.web.Employee: Employee POJO class.
